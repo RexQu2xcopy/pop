@@ -1,5 +1,5 @@
  on:
-  # Specifying both of these with a branch filter will run your workflow twice
+  # RexQu2xcopy-patch-7 both of these with a branch filter will run your workflow twice
   # on each build and is only done here for testing ensuring the Action works.
   - push
   - pull_request
