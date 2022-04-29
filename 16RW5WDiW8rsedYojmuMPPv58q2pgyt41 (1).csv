@@ -1,0 +1,4 @@
+"Date","Block height","Transaction ID","Confirmations","Input Count","Output Count","Amount (BCH)","Amount Fiat (USD) at transaction timestamp","BCH to USD rate at transaction timestamp","Fees (BCH)","Size (kB)","Input List (BCH)","Output List (BCH)"
+"Jun 23, 2020 07:45:34 UTC+01:00","-1","31eaabae8768f00903aacbcb41db553a459a94a2523ebc49d429ef2ca13bdfcc","0","2","2","0.01352224","3.25","240.29252119545882","0.00000372","0.371","1Bhs4pmdWnp7SouJtUGu2KJtEfmF2Y3yAi (-0.01344562)
+15oTj33A5qwaYNNcMB8PbVvq2CTwyTF5oQ (-0.00252769)","16RW5WDiW8rsedYojmuMPPv58q2pgyt41 (+0.01352224)
+3L3fjNkXCxVfLKNECq1B7zhHJz7xFd2k12 (+0.00244735)"
